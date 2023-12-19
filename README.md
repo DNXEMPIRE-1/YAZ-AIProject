@@ -17,9 +17,6 @@ Welcome to the YAZ-AIProject! This is an ongoing artificial intelligence project
 
 ## Current Progress
 
-- [Brief update on the current progress of the project]
-- [Milestones achieved, challenges faced, or any notable developments]
-
 ## Installation
 
 1. **Clone the repository:**
